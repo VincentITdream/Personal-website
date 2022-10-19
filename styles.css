@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin top:0;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+  background-color: skyblue;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #FF97C1;
+}
+
+.bottom-container {
+  background-color: #C8FFD4;
+}
+.bottom-cloud{
+  position:absolute;
+  right:300px;
+  top:50px;
+
+}
+.top-cloud{
+  position:absolute;
+  left:300px;
+  bottom:300px;
+}
