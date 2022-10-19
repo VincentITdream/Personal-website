@@ -49,6 +49,7 @@ hr{
 .middle-container {
   line-height: 2;
   margin: 100px 0;
+  background-color: #F8C4B4;
 
 }
 a{
@@ -117,9 +118,7 @@ a:hover{
 .problem-solving {
   width: 25%;
 
-
 }
 .Customer-service {
   width: 25%;
-
 }
